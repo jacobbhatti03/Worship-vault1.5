@@ -1,1 +1,5 @@
 streamlit
+python-dotenv
+supabase
+bcrypt
+requests
